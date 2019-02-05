@@ -1,3 +1,2 @@
-string="hello"
-N=int(input())
-print(string*int(N))
+for i in range(5):
+    print ("Hello")
