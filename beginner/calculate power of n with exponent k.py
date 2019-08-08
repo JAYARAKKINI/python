@@ -1,4 +1,4 @@
-n=int(input())
-k=int(input())
-z=n**k
+x=int(input())
+y=int(input())
+z=x**y
 print(z)
